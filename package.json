@@ -1,0 +1,22 @@
+{
+  "name": "jest-testing-framword",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadafsafi22/Jest-testing-framword.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadafsafi22/Jest-testing-framword/issues"
+  },
+  "homepage": "https://github.com/sadafsafi22/Jest-testing-framword#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
